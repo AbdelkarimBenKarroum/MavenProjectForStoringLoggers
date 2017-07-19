@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-18T16:20:55</date>
+  <millis>1500384055293</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-18T16:24:11</date>
+  <millis>1500384251166</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-18T16:46:12</date>
+  <millis>1500385572049</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-18T23:55:49</date>
+  <millis>1500411349899</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-18T23:56:51</date>
+  <millis>1500411411287</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-18T23:57:53</date>
+  <millis>1500411473889</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-19T00:00:31</date>
+  <millis>1500411631192</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-19T00:00:48</date>
+  <millis>1500411648048</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-19T00:01:34</date>
+  <millis>1500411694600</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-19T00:01:49</date>
+  <millis>1500411709365</millis>
+  <sequence>0</sequence>
+  <logger>com.abdelkarim.MavenSimplePorject.App</logger>
+  <level>INFO</level>
+  <class>com.abdelkarim.MavenSimplePorject.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>this is about mongo</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
